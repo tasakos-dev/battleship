@@ -1,5 +1,9 @@
-#Liontos Anastasios, A.M. 4409
-import random, sys
+__author__ ='tasakos'
+
+import random
+import sys
+
+
 board=[[' ' for i in range(5)]for i in range(5)]#p1 board
 board1=[[' ' for i in range(5)]for i in range(5)]#p2 board
 player_ships1=[]# player 1 game positions
